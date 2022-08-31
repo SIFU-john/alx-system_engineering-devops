@@ -1,0 +1,6 @@
+Script.sh 
+#!/bin/bash
+path='readlink -f ""
+Dir_PATH= 'dirname $path'
+echo 'The absolute path is' $path
+		 
